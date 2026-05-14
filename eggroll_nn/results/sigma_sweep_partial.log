@@ -1,0 +1,9 @@
+/home/yuvanesh-sankar/.local/share/mise/installs/python/3.11.14/lib/python3.11/site-packages/torch/cuda/__init__.py:65: FutureWarning: The pynvml package is deprecated. Please install nvidia-ml-py instead. If you did not install pynvml directly, please report this to the maintainers of the package that installed pynvml for you.
+  import pynvml  # type: ignore[import]
+=== d_hidden=32, P=25450, ||g_truth||=0.944 ===
+  σ=0.05  r=  1  err=4.290e-01  sem_eg=2.422e-01  est_bias=3.541e-01  bias/sem=1.46
+  σ=0.05  r=  4  err=3.999e-01  sem_eg=2.187e-01  est_bias=3.348e-01  bias/sem=1.53
+  σ=0.05  r= 16  err=3.957e-01  sem_eg=2.143e-01  est_bias=3.326e-01  bias/sem=1.55
+  σ=0.15  r=  1  err=7.803e-01  sem_eg=5.223e-01  est_bias=5.797e-01  bias/sem=1.11
+  σ=0.15  r=  4  err=6.777e-01  sem_eg=3.989e-01  est_bias=5.478e-01  bias/sem=1.37
+  σ=0.15  r= 16  err=6.506e-01  sem_eg=3.596e-01  est_bias=5.423e-01  bias/sem=1.51
